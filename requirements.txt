@@ -1,0 +1,6 @@
+sounddevice
+numpy
+soundfile
+python-dotenv
+openai-whisper
+pyannote.audio
